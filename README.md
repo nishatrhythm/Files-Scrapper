@@ -1,10 +1,15 @@
 # Files-Scrapper
 
+<h2 align="center">Audio Scrapper (Python Script)</h2>
+
 ```python
 import requests
 import os
 from tqdm import tqdm
 import time
+
+# Set the CMD window title
+os.system("title Audio Scrapper")
 
 # Define the base URLs for the three folders
 base_urls = {
