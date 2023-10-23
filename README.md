@@ -1,6 +1,48 @@
-# Files-Scrapper
+# Quran Files Download Script
 
-<h2 align="center">Audio Scrapper (Python Script)</h2>
+This Python script allows you to download audio and image files of the Quran from www.quran.gov.bd.
+
+
+<img src="Screenshot_1.png" width="300" alt="Image showing the script executing in command prompt."> 
+
+## Prerequisites
+
+Before running the script, ensure you have the following:
+
+1. **Python**: Make sure you have Python installed on your system. You can download it from the official Python website: [Python Downloads](https://www.python.org/downloads/).
+
+2. **Required Libraries**: Install the necessary Python libraries using pip (Python package manager). Open your terminal/command prompt and run the following command:
+   ```bash
+   pip install requests tqdm
+
+## Usage
+
+1. **Download the script**:
+   - Download the script file (`download_quran.py`) from this repo or copy the following code, paste in Notepad and save it to your local machine as `download_quran.py`.
+
+2. **Run the script**:
+   - Open your terminal/command prompt.
+   - Navigate to the directory where the script is located.
+   - Execute the script using the following command:
+     ```bash
+     python download_quran.py
+     ```
+
+3. **Choose an option**:
+   - You will be prompted to choose an option from the following:
+     - [1] Arabic Sound (MP3)
+     - [2] Bengali Sound (MP3)
+     - [3] English Sound (MP3)
+     - [4] Arabic Pronunciation (PNG)
+     - [5] Bangla Pronunciation (PNG)
+     - [6] Bangla Translation (PNG)
+     - [7] English Pronunciation (PNG)
+     - [8] English Translation (PNG)
+
+4. **Download and Enjoy**:
+   - The script will download the selected files and display the download progress.
+
+## Scrapper
 
 ```python
 import requests
