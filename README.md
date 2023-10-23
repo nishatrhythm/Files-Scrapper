@@ -3,7 +3,7 @@
 This Python script allows you to download audio and image files of the Quran from www.quran.gov.bd.
 
 
-<img src="Screenshot_1.png" width="300" alt="Image showing the script executing in command prompt."> 
+<img src="Screenshot_1.png" width="700" alt="Image showing the script executing in command prompt."> 
 
 ## Prerequisites
 
