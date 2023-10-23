@@ -1,6 +1,6 @@
 <h1 align="center">Quran Files Download Script</h1>
 
-<p align="center">This Python script allows you to download audio and image files of the Quran from www.quran.gov.bd.</p>
+<p align="center">This Python script allows you to download audio and image files of the Quran from www.quran.gov.bd</p>
 <p align="center"><img src="Screenshot_1.png" align="center" width="800" alt="A screenshot showing the script is executing in command prompt."></p>
 <p align="center"><caption>A screenshot showing the script is executing in command prompt.</caption></p><hr>
 
@@ -46,8 +46,8 @@ Before running the script, ensure you have the following:
 I am aware of the following issues, but no fix will be provided.
 
 1. Two (2) image files are missing for this two (2) URLs.
-   - [https://www.quran.gov.bd/quran/bengaliT/62/62-3.png](https://www.quran.gov.bd/quran/bengaliT/62/62-3.png)
-   - [https://www.quran.gov.bd/quran/bengaliT/62/62-4.png](https://www.quran.gov.bd/quran/bengaliT/62/62-4.png)
+   - [http://www.quran.gov.bd/quran/bengaliT/62/62-3.png](http://www.quran.gov.bd/quran/bengaliT/62/62-3.png)
+   - [http://www.quran.gov.bd/quran/bengaliT/62/62-4.png](http://www.quran.gov.bd/quran/bengaliT/62/62-4.png)
 2. The script may pause or experience interruptions because of occasional unresponsiveness from the server. I have thoroughly tested the script, and there are no issues with the script itself.
 
 ## Scrapper
